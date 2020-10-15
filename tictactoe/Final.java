@@ -12,10 +12,10 @@ public class Final {
 		sb.add(ge);
 		sb.add(ge2);
 		sb.add(ge3);
-//		sb.add(ge4);
+		sb.add(ge4);
 		System.out.println(ge.getName());
 		System.out.println(sb.getCapacity());
-		System.out.println();
+		sb.print();
 		
 	}
 

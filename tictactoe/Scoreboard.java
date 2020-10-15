@@ -36,6 +36,11 @@ public class Scoreboard {
     	return temp;
     	
     }
+    public void print() {
+    	for(int i = 0 ; i<numEntries;i++) {
+    		System.out.println(board[i]);
+    	}
+    }
 }
 
 
