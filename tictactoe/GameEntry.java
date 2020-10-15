@@ -1,4 +1,4 @@
-package tictactoe;
+package GameEntryAndDeletion;
 
 public class GameEntry {
 	
