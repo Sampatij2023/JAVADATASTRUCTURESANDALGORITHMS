@@ -1,5 +1,5 @@
 # JAVADATASTRUCTURESANDALGORITHMS
-#arrays
+# ARRAYS
 it contains 3 files 
 it is basically application of arrays
 in GameEntry file we have a contructor having details of player name and his score
